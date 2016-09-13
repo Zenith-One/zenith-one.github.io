@@ -67,7 +67,7 @@ window.CalendarUtil = window.CalendarUtil || {};
   var moonSpritePos = getMoonPhases(year, month, index);
     var background = '';
     if(year === today.year && month === today.month && Number(index) === today.day){
-      background = 'background-color:#ffe;';
+      background = 'background-color:#aaf;';
     }
     var dayString = '<td style="min-width:30px; vertical-align:top; font-weight:bold;padding:10px;'+
                       'font-size:30px; border: 1px solid;'+background+'">'+
@@ -116,7 +116,7 @@ window.CalendarUtil = window.CalendarUtil || {};
 
   function getYearDisplay(){
     var year = today.year;
-    var yearStr = '<div><h1 style="text-align:center;">' + age + ' year ' + year + '<h1>';
+    var yearStr = '<div><h1 style="text-align:center;">' + age + ' year ' + (year + 1) + '<h1>';
     for(var i = 0; i < months.length; i += 1){
       yearStr += getMonthDisplay(year, i);
     }
