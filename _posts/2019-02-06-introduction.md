@@ -6,13 +6,13 @@ title: Introduction
 
 Welcome to From the Ashes, an Ironsworn blog.  Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.
 
-The solo aspect of Ironsworn is what really drew me to it. I've tried solo tabletop games in the past, but nothing *sang* to me. Some games felt like an slightly crunchier choose-your-own-adventure book, while others were a bit too far on the rules light side of things and ended up feeling more like writing a novel than playing an RPG.  From what I can tell having done some exploratory testing, Ironsworn hits a sweet spot.
+The solo aspect of Ironsworn is what really drew me to it. I've tried solo tabletop games in the past, but nothing *sang* to me. Some games felt like a slightly crunchier choose-your-own-adventure book, while others were a bit too far on the rules light side of things and ended up feeling more like writing a novel than playing an RPG.  From what I can tell having done some exploratory testing, Ironsworn hits a sweet spot.
 
 There are several aspects of the game that help it achieve its solo goals.  We'll be discussing a few of them here: Moves, the Oracle, and Vows.
 
 ### Moves
 
- First, the moves, as in most PbtA games, are set up so that you never just *fail* at something. If the dice don't go your way, something always changes. For example, in more traditional tabletop games, if you fail to pick a lock, you're still standing in the corridor facing a locked door. Nothing is different. It is as if you never tried at all. In a PbtA game, rolling a "miss" (what it's called instead of a failure, for reasons which will become clear soon), doesn't necessarily mean you fail at the thing you were trying to do. And even if you do fail, something in the situation changes. There are no null outcomes.  For instance, using the same example, you attempt to pick the lock. You roll the dice and it comes up bad. Real bad. Maybe you fail, but you hear guards coming down the hallway. Or maybe you succeed, but find something ominous on the other side rather than the treasure you thought would be there. This "fail forward" approach to game mechanics ensures that, assuming you're following the rules, you can never hit a stalemate.
+ First, the moves, as in most PbtA games, are set up so that you never just *fail* at something. If the dice don't go your way, something always changes. For example, in more traditional tabletop games, if you fail to pick a lock, you're still standing in the corridor facing a locked door. Nothing is different. It is as if you never tried at all. In a PbtA game, rolling a "miss" (what it's called instead of a failure, for reasons which will become clear soon), doesn't necessarily mean you fail at the thing you were trying to do. And even if you do fail, something in the situation changes. There are no null outcomes.  For instance, using the same example, you attempt to pick the lock. You roll the dice and it comes up bad. Maybe you fail, but you hear guards coming down the hallway. Or maybe you succeed, but find something ominous on the other side rather than the treasure you thought would be there. This "fail forward" approach to game mechanics ensures that, assuming you're following the rules, you can never hit a stalemate.
 
 Another common thread among PbtA games is that a roll doesn't give you a binary outcome (e.g. hit/miss).
 There are three possible results: a strong hit, a weak hit, and a miss.
@@ -79,15 +79,15 @@ If you only beat one of them, it's a weak hit.
 If you don't beat either, it's a miss.
 
 That might be confusing, so let's look at some examples.
-Let's say your Iron stat is +1, and you have a +1 bonus for some reason.
+Let's say your applicable stat is +1, and you have a +1 bonus for some reason.
 You roll the action die and get 2, for a total of 4.
 You then roll the challenge dice, which come up 2 and 3, a strong hit because you beat both dice.
 If instead, the challenge dice come up 3 and 6, it's a weak hit, because you beat the 3, but not the 6.
-If they come up 4 and 5, it's a miss because your 4 doesn't beat either of them (because your 4 is not greater than either challenge die).
+If they come up 4 and 5, it's a miss because your 4 doesn't beat either of them (your 4 is not greater than either challenge die).
 
 Another fun addition to this mechanic is that you can never have more than a total of +4 to your roll, which means that the highest action total you can get is 10.
 Since you lose ties with the challenge dice, you can never get to a point where a miss is impossible (unlike in some other PbtA games where you can).
-This odd dice mechanic in conjunction with the structure of the moves result in highly dynamic, and often surprising, gameplay.
+This novel dice mechanic in conjunction with the structure of the moves result in highly dynamic, and often surprising, gameplay.
 
 ### The Oracle
 
@@ -104,11 +104,11 @@ The astute reader might have noticed the presence of "Ask the Oracle if unsure" 
   Perhaps this bandit leader was exiled from the nearby village and decided to squeeze the trade routes to get back at them.
   Or maybe they were jilted by the one whose love they desired, and are using banditry as a way to lash out. 
 
-With oracle tables for all kinds of things, such as Theme and Action, as well as Settlement Trouble, Location Descriptor, Combat Action, and a host of others, you can see how this would be highly useful to a solo player.
+With oracle tables for all kinds of things, such as Theme and Action, as well as Settlement Trouble, Location Descriptor, Combat Action, and a host of others, it's easy to see how this would be highly useful to a solo player.
 
 ### Iron Vows
 
-Ironsworn's core mechanic, Vows, also work to ensure that there's always something to do.
+Ironsworn's Vows also work to ensure that there's always something to do.
 They're effectively quests with varying degrees of difficulty.
 As an Ironsworn, you swear vows on iron (literally, you hold something made of iron and speak your vow).
 Depending on what choices you make when creating your setting, this could be an invocation of mystical power that binds you to your word.
@@ -116,13 +116,14 @@ Or, it could simply be related to a strong sense of honor in your setting.
 Whatever it means to you, oaths made on iron are *important*.  
 
 You begin with a background vow, an oath you made at some point before the game begins.
-This vow isn't the sort of thing that you're going to get done any time soon.
-It's more like a long-term goal, something for your character to strive for throughout the course of the game.
+This isn't the sort of thing that you're going to get done any time soon.
+It's more like a long-term goal, something for your character to work toward throughout the course of the game.
 You also begin with some inciting incident which leads to your swearing another Iron Vow.
 This is intended to give you something to immediately go and do.
 Throughout the course of the game, you'll be meeting new people who will want you to do things.
 Sometimes these things will progress one or more of your vows.
-Sometimes it will be more of a "you scratch my back and I'll scratch yours" situation in order to gain the aid of a character.  
+Sometimes it will be more of a "you scratch my back and I'll scratch yours" situation in order to gain the aid of a character.
+No matter what the reason, it's quite easy to keep yourself filled to the brim with oaths to keep (and thus more stories to tell).
 
 Iron Vows are more than just narrative tools, though.
 The only way in which you can gain experience points (and thus character advancement) is through completing vows.
