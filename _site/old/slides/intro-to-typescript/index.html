@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=1024, user-scalable=no">
+
+  <title>Introduction to TypeScript</title>
+
+  <!-- Required stylesheet -->
+  <link rel="stylesheet" media="screen" href="core/deck.core.css">
+
+  <!-- Extension CSS files go here. Remove or add as needed. -->
+  <link rel="stylesheet" media="screen" href="extensions/goto/deck.goto.css">
+  <link rel="stylesheet" media="screen" href="extensions/menu/deck.menu.css">
+  <link rel="stylesheet" media="screen" href="extensions/navigation/deck.navigation.css">
+  <link rel="stylesheet" media="screen" href="extensions/status/deck.status.css">
+  <link rel="stylesheet" media="screen" href="extensions/scale/deck.scale.css">
+
+  <!-- Style theme. More available in /themes/style/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="themes/style/mnml.css">
+
+  <!-- Transition theme. More available in /themes/transition/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="themes/transition/fade.css">
+
+  <!-- Basic black and white print styles -->
+  <link rel="stylesheet" media="print" href="core/print.css">
+  <link rel="stylesheet" href="extensions/highlightjs/default.css">
+
+  <link rel="stylesheet" href="extensions/font-awesome/css/font-awesome.css">
+
+  <!-- Required Modernizr file -->
+  <script src="modernizr.custom.js"></script>
+  <script src="extensions/highlightjs/highlight.pack.js"></script>
+  <style>
+    .strike {
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<body>
+  <div id="the-deck" class="deck-container">
+
+    <!-- Begin slides. Just make elements with a class of slide. -->
+
+    <section class="slide">
+      <h1>Introduction to TypeScript</h1>
+      <h2 class="slide">What is it?</h2>
+      <h2 class="slide">Why should I care?</h2>
+      <h2 class="slide">How do I use it?</h2>
+    </section>
+
+    <section class="slide">
+      <h1>Who is this guy?</h1>
+      <div class="profile slide">
+        <img src="https://pbs.twimg.com/profile_images/649582486880587777/_D5m0eMC.jpg"/>
+        <div>
+          <h2>Craig Burton</h2>
+          <h3>Software Engineer</h3>
+          <h3>PlatformQ</h3>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <h2 class="slide" style="text-align:center">I make web stuff.</h4>
+    </section>
+
+    <section class="slide">
+      <h1>What is TypeScript?</h1>
+      <h2 class="slide">A superset of JavaScript</h2>
+      <ul>
+        <li class="slide">It <strong>is</strong> JS - with extras</li>
+        <li class="slide">Compiles to JS <span class="slide">- ES2015, ES5, even ES3 <span class="slide">(if you really must...)</span></span></li>
+        <li class="slide">Compiled code is basically the code you wrote</li>
+      </ul>
+      <h2 class="slide">Includes tomorrow's JS features today</h2>
+      <ul class="slide"><li> ES2015 and up - classes, let/const, arrow functions, spread operator, etc.</li></ul>
+    </section>
+
+    <section class="slide">
+      <h1>What is TypeScript?</h1>
+      <h2>Adds static typing<span class="slide">- A Good Thing&trade;</span></h2>
+      <ul>
+        <li class="slide">Anything you can do, I can do
+          <span class="transform-strike">better</span>
+          <span class="slide">
+            safer
+          </span>
+      </ul>
+      <pre class="slide">
+        <code class="javascript">
+          // JavaScript
+          function findOne(data, config){ 
+            // What is data? What is config? BOB! How many 
+            // times have I told you to document your code?!
+            /* ... */ 
+          }
+        </code>
+        <code class="slide typescript">
+          // TypeScript
+          function findOne(data: Person[], config: SearchConfig): Person { 
+            // We know what data and config are, super helpful!
+            // This can be even cooler. Just wait till the live demo!
+            /* ... */ 
+          }
+        </code>
+      </pre>
+    </section>
+
+    <section class="slide">
+      <h1>Why should I care?</h1>
+      <h2 class="slide">JavaScript was never designed for large apps.</h2>
+      <h2 class="slide">Documentation takes time. <span class="slide">(both writing <strong>and</strong> reading)</span></h2>
+      <h2 class="slide">Developers are <sup>*</sup>lazy. <span class="slide">. &nbsp;. except for me. I'm a go-getter!</span></h2>
+      <h3 class="slide" style="text-align:right; padding-right:4em;"><sup>*</sup>Really, we're just very busy.</h3>
+      <h2 class="slide">The available tooling is <strong>amazing.</strong></h2>
+
+    </section>
+
+    <section class="slide">
+      <h1>How do I use it?</h1>
+      <div>
+        <h2>Install typescript:</h2>
+        <pre>
+          <code class="bash">$ npm install typescript</code>
+        </pre>
+      </div>
+      <div class="slide">
+        <h2>You write JavaScript.</h2>
+        <pre>
+          <code class="typescript">
+            function foo(a){ /* do stuff */ }
+          </code>
+        </pre>
+      </div>
+    </section>
+
+    <section class="slide">
+      <h1>How do I use it?</h1>
+      <div>
+        <h2>And then you add type annotations.</h2>
+        <pre>
+          <code class="typescript">
+            function foo(a: string){ /* do stuff */ }
+          </code>
+        </pre>
+      </div>
+      <h2 class="slide">Win.</h2>
+    </section>
+
+    <section class="slide">
+      <h1>Live demo!</h1>
+    </section>
+
+
+    <section class="slide">
+      <h1>Conclusion</h1>
+      <h2 class="slide">TypeScript is a really powerful extension of JavaScript.</h2>
+      <h2 class="slide">It can be used anywhere JS can be, because it compiles to JS.</h2>
+      <h2 class="slide">It adds a huge degree of maintainability to large apps.</h2>
+      <h2 class="slide">It speeds up development.</h2>
+    </section>
+
+    <section class="slide">
+      <h1>Thank you</h1>
+      <div class="profile">
+        <img src="https://pbs.twimg.com/profile_images/649582486880587777/_D5m0eMC.jpg"/>
+        <div>
+          <h2>Craig Burton</h2>
+          <h3>Software Engineer</h3>
+          <h3>PlatformQ</h3>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="links">
+        <div class="social">
+          <ul>
+            <li><i class="fa fa-twitter-square" aria-hidden="true"></i> <a href="https://twitter.com/theguywhocodes">@theguywhocodes</a></li>
+            <li><i class="fa fa-rss-square" aria-hidden="true"></i> <a href="http://theonewho.codes">theonewho.codes</a></li>
+            <li><i class="fa fa-linkedin-square" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/craigadamburton">craigadamburton</a></li>
+            <li><i class="fa fa-github-square" aria-hidden="true"></i> <a href="https://github.com/Zenith-One">Zenith-One</a></li>
+          </ul>
+        </div>
+        <div class="resources">
+          <h3>Useful Links</h3>
+          <ul>
+            <li>Slides<br/><a href="http://bit.ly/the-slide-decks">bit.ly/the-slide-decks</a></li>
+            <li>TypeScript Playground <br/><a href="http://www.typescriptlang.org/play/">typescriptlang.org/play</a></li>
+            <li>Intro Video by Anders Hejlsberg <br/><a href="http://bit.ly/intro-to-typescript-video">bit.ly/intro-to-typescript-video</a></li>
+          </ul>
+        </div>
+
+        <div class="clear"></div>
+      </div>
+    </section>
+    <!-- End slides. -->
+
+    <!-- Begin extension snippets. Add or remove as needed. -->
+
+    <!-- deck.goto snippet -->
+    <form action="." method="get" class="goto-form">
+      <label for="goto-slide">Go to slide:</label>
+      <input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+      <datalist id="goto-datalist"></datalist>
+      <input type="submit" value="Go">
+    </form>
+
+
+    <!-- End extension snippets. -->
+  </div>
+  <!--<img class="fullscreen-icon" src="img/fullscreen.png" title="WIN+F11 in chrome on windows, YMMV"/>-->
+
+<!-- Required JS files. -->
+<script src="jquery.min.js"></script>
+<script src="core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="extensions/menu/deck.menu.js"></script>
+<script src="extensions/goto/deck.goto.js"></script>
+<script src="extensions/status/deck.status.js"></script>
+<script src="extensions/navigation/deck.navigation.js"></script>
+<script src="extensions/scale/deck.scale.js"></script>
+<!--<script src="extensions/prism/prism.js"></script>-->
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script src="kickIt.js"></script>
+</body>
+</html>
