@@ -140,4 +140,4 @@ Having read the entire thing and played the game a bit, I can tell you that I wo
 But nope, it was free.
 
 I highly recommend checking it out.
-And make sure to keep an eye out for the next post where we will learn about our game's setting and meet our protagonist: Ida Eisenbaum, Slayer of Beasts!
+And make sure to keep an eye out for the next post where we will make some big decisions about our game's setting and begin the journey toward meeting our protagonist: Ida Eisenbaum, Slayer of Beasts!

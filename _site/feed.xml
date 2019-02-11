@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-07T04:34:20-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">From the Ashes</title><subtitle>An Ironsworn blog</subtitle><entry><title type="html">Introduction</title><link href="http://localhost:4000/introduction/" rel="alternate" type="text/html" title="Introduction" /><published>2019-02-06T00:00:00-05:00</published><updated>2019-02-06T00:00:00-05:00</updated><id>http://localhost:4000/introduction</id><content type="html" xml:base="http://localhost:4000/introduction/">&lt;p&gt;Welcome to From the Ashes, an Ironsworn blog.  Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-11T18:48:17-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">From the Ashes</title><subtitle>An Ironsworn blog</subtitle><entry><title type="html">Worldbuilding Part I - The Land</title><link href="http://localhost:4000/worldbuilding-part-i-the-land/" rel="alternate" type="text/html" title="Worldbuilding Part I - The Land" /><published>2019-02-11T00:00:00-05:00</published><updated>2019-02-11T00:00:00-05:00</updated><id>http://localhost:4000/worldbuilding-part-i-the-land</id><content type="html" xml:base="http://localhost:4000/worldbuilding-part-i-the-land/">&lt;p&gt;I think that it will be easier to get a good picture of who our protagonist will be if we first understand where she is coming from, in the literal sense.
+Ironsworn has a built-in setting with a nice set of options for several decision points on the specifics.
+I really like the way it’s set up, but I think I’d prefer to play in my group’s homebrew setting, Kalemin, instead.
+Since I and my group created it, I know that setting fairly well. I also know that there are still many blank spots in the lore and the map to explore.
+As I was reading through the world creation options, though, I discovered a pleasant surprise: If I set up the game at the right place in the right time, I don’t even have to do much editing.&lt;/p&gt;
+
+&lt;p&gt;Because there are a whopping 11 categories to go through, and because many of them require a fair bit of discussion and consideration, I’ve decided to break up worldbuilding into three separate posts. This one will cover the land and how these people came to live here.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-truths&quot;&gt;Our Truths&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned before, worldbuilding in Ironsworn is done by choosing an option in several categories, which, when combined, give you a colorful and evocative setting.
+If you’d like to follow along, the world workbook is &lt;a href=&quot;https://www.ironswornrpg.com/downloads&quot;&gt;available for free&lt;/a&gt; (along with just about everything else related to the game).&lt;/p&gt;
+
+&lt;h3 id=&quot;the-old-world&quot;&gt;The Old World&lt;/h3&gt;
+
+&lt;p&gt;The truth we choose here tells us about where the people in the Ironlands came from. 
+Before we jump right into the custom setting I mentioned above, let’s have a peek at what this concept looks like as intended:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;THE OLD WORLD&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The savage clans called the Skulde invaded the kingdoms of the Old World. Our armies fell. Most were killed or taken into slavery. Those who escaped set sail aboard anything that would float. After an arduous months-long voyage, the survivors made landfall upon the Ironlands.&lt;/li&gt;
+    &lt;li&gt;The sickness moved like a horrible wave across the Old World, killing all in its path. Thousands fled aboard ships. However, the plague could not be outrun. On many ships, the disease was contained through ruthless measures—tossing overboard any who exhibited the slightest symptom. Other ships were forever lost. In the end, those who survived found the Ironlands and made it their new home. Some say we will forever be cursed by those we left behind.&lt;/li&gt;
+    &lt;li&gt;The Old World could no longer sustain us. We were too large in number. We had felled the forests. Our crops withered in the barren ground. The cities and villages overflowed with desperate, hungry people. Petty kings battled for scraps. We cast our fate to the sea and found the Ironlands. A new world. A fresh start.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It seems that the idea is for the Ironlands to be a frontier, or at least not the place where the Ironlanders are originally from.
+In Kalemin’s history, there was a catastrophic war in the distant past relative to my group’s other campaigns.
+In that war, the pantheon split and waged a civil war, which played out on the mortal plane.
+Instead of having the game take place in a “new world,” we’re going to be playing in the ruins of the old one (thus the name of the blog). I’m thinking perhaps a hundred years or so following the final apocalyptic battles.&lt;/p&gt;
+
+&lt;p&gt;One of the options above is pretty close to the image I have in my head. With a decent bit of tweaking, here’s what we get:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The legends say there was once a glorious empire. But that was before the gods warred among themselves, and brought the fight to these lands. The savage Scourge and their lords flooded over it. The grand armies fell, along with the ancient fortresses and deep cities. Those who survived found themselves in a land bereft of the order and majesty of the old days.						
+It is at this point that you may realize that Kalemin is not nearly as low-fantasy as the Ironlands.
+I originally created it for a Dungeons and Dragons campaign, and thus all the D&amp;amp;D races are represented for the most part. 
+The empire referenced here is that of the dwarves. Ida is a dwarven woman. Surprise!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For additional context, the Scourge will later become known as humans, and “their lords” refer to the dragons who led them.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron&quot;&gt;Iron&lt;/h3&gt;
+
+&lt;p&gt;In the &lt;a href=&quot;/introduction&quot;&gt;last post&lt;/a&gt;, we talked about how swearing a vow on iron is a big deal. The options presented below will give us the opportunity to figure out why:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;IRON&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The imposing hills and mountains of the Ironlands are rich in iron ore. Most prized of all is the star-forged black iron.&lt;/li&gt;
+    &lt;li&gt;The weather is bleak. Rain and wind sweep in from the ocean. The winters are long and bitter. One of the first settlers complained, “Only those made of iron dare live in this foul place”—and thus our land was named.&lt;/li&gt;
+    &lt;li&gt;Inscrutable metal pillars are found throughout the land. They are iron gray, and smooth as river stone. No one knows their purpose. Some say they are as old as the world. Some, such as the Iron Priests, worship them and swear vows upon them. Most make the warding sign and hurry along their way when they happen across one. The pillars do not tarnish, and even the sharpest blade cannot mark them.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In most fantasy settings in which dwarves appear, metalworking is a common focus among them.
+This is true of the dwarves of Kalemin.
+Iron, therefore, is pretty important. We’re just going to go with the first one.&lt;/p&gt;
+
+&lt;p&gt;There is a common trope of post-apocalyptic fantasy that I thing we can get some decent mileage out of for our purposes: The destruction was so complete that a great deal of advanced knowledge was lost.
+For instance, we don’t know how the black iron was forged anymore.
+The techniques were lost, probably due to the destruction of the original equipment and lack of resources required to make it.
+The sparse population that survived the war was too busy trying to survive and it simply faded from the collective minds of the dwarves.&lt;/p&gt;
+
+&lt;p&gt;Being a people inclined toward working with metal, iron would be quite important and valuable. We also have an additional layer to explore later if we want to: Who has black iron and what is it worth? What legends speak of it?&lt;/p&gt;
+
+&lt;p&gt;We will, of course, play to find out what happens.&lt;/p&gt;
+
+&lt;h3 id=&quot;legacies&quot;&gt;Legacies&lt;/h3&gt;
+
+&lt;p&gt;Legacies in the Ironlands refer to who and what used to be in the new world.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;LEGACIES&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;We are the first humans to walk these lands.&lt;/li&gt;
+    &lt;li&gt;Other humans sailed here from the Old World untold years ago, but all that is left of them is a savage, feral people we call the broken. Is their fate to become our own?&lt;/li&gt;
+    &lt;li&gt;Before the Ironlanders, before even the firstborn, another people lived here. Their ancient ruins are found throughout the Ironlands.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We’ve already decided that the lands we live in are the same lands our ancestors lived in, so many of these don’t apply. 
+Due to our divergence from the “new world” that the Ironlands setting is supposed to be, we get to expand on our Truth about The Old World instead:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The ancient empire’s bones are scattered all around. The husks of great fortresses provide shelter to the things which hide from the sun, and the giant statues adorning the sides of the mountains remind us that our ancestors were once great and powerful. But that was long, long ago.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This paints a pretty grim picture of what the world is like now.
+We can expect to see vast ruins and other hints that the land was once tamed, but it is now broken and dangerous.&lt;/p&gt;
+
+&lt;p&gt;And exciting.&lt;/p&gt;
+
+&lt;h3 id=&quot;to-be-continued&quot;&gt;To Be Continued…&lt;/h3&gt;
+
+&lt;p&gt;That’s it for the land itself. Next time, we’re going to talk about the people and how they live. Will there be democracy? Monarchy? Despotic warlords? We shall see!&lt;/p&gt;</content><author><name></name></author><summary type="html">I think that it will be easier to get a good picture of who our protagonist will be if we first understand where she is coming from, in the literal sense. Ironsworn has a built-in setting with a nice set of options for several decision points on the specifics. I really like the way it’s set up, but I think I’d prefer to play in my group’s homebrew setting, Kalemin, instead. Since I and my group created it, I know that setting fairly well. I also know that there are still many blank spots in the lore and the map to explore. As I was reading through the world creation options, though, I discovered a pleasant surprise: If I set up the game at the right place in the right time, I don’t even have to do much editing.</summary></entry><entry><title type="html">Introduction</title><link href="http://localhost:4000/introduction/" rel="alternate" type="text/html" title="Introduction" /><published>2019-02-06T00:00:00-05:00</published><updated>2019-02-06T00:00:00-05:00</updated><id>http://localhost:4000/introduction</id><content type="html" xml:base="http://localhost:4000/introduction/">&lt;p&gt;Welcome to From the Ashes, an Ironsworn blog.  Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.&lt;/p&gt;
 
 &lt;p&gt;The solo aspect of Ironsworn is what really drew me to it. I’ve tried solo tabletop games in the past, but nothing &lt;em&gt;sang&lt;/em&gt; to me. Some games felt like a slightly crunchier choose-your-own-adventure book, while others were a bit too far on the rules light side of things and ended up feeling more like writing a novel than playing an RPG.  From what I can tell having done some exploratory testing, Ironsworn hits a sweet spot.&lt;/p&gt;
 
@@ -142,4 +238,4 @@ Having read the entire thing and played the game a bit, I can tell you that I wo
 But nope, it was free.&lt;/p&gt;
 
 &lt;p&gt;I highly recommend checking it out.
-And make sure to keep an eye out for the next post where we will learn about our game’s setting and meet our protagonist: Ida Eisenbaum, Slayer of Beasts!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to From the Ashes, an Ironsworn blog. Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.</summary></entry></feed>
+And make sure to keep an eye out for the next post where we will make some big decisions about our game’s setting and begin the journey toward meeting our protagonist: Ida Eisenbaum, Slayer of Beasts!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to From the Ashes, an Ironsworn blog. Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.</summary></entry></feed>
