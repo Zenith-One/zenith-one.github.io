@@ -132,12 +132,12 @@ It's a fine marriage of carrot and stick.
 ### What's next?
 
 In the near future, I'll be setting up for an Ironsworn game which will take place here.
-The first post will cover character creation and a bit of prologue. After that, I'll start the game proper.
+The first series of posts will cover worldbuilding, in which we will decide what kind of environment we'll be playing in.
 
 If you like what you've been reading about Ironsworn so far, or you just want to follow along with the mechanics as I play, Ironsworn is [available here](https://ironswornrpg.com) for the utterly unbeatable price of ***free***.
 You can get the core rulebook, character sheet, and a whole slew of other helpful things for exactly zero money.
 Having read the entire thing and played the game a bit, I can tell you that I would have no buyer's remorse if I'd paid $40-50 for it.
 But nope, it was free.
-
 I highly recommend checking it out.
+
 And make sure to keep an eye out for the next post where we will make some big decisions about our game's setting and begin the journey toward meeting our protagonist: Ida Eisenbaum, Slayer of Beasts!

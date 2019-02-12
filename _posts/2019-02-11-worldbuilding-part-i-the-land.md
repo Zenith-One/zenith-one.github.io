@@ -15,6 +15,12 @@ As I was reading through the world creation options, though, I discovered a plea
 
 Because there are a whopping 11 categories to go through, and because many of them require a fair bit of discussion and consideration, I've decided to break up worldbuilding into three separate posts. This one will cover the land and how these people came to live here.
 
+It might sound like a lot to get through in order to play, but it only seems that way due to the medium. In practice, the worldbuilding exercise can be completed in about 5-10 minutes tops when you're not writing about it and discussing each bit in detail. But my goal here is to bring you on this journey with me and give you as authentic a representation of how I think as possible.
+
+I've read several excellent chronicles of solo RPGs, but something I have always wanted, but rarely found, are accounts of all the things that happen before and between the fiction. So here we are!
+
+Let's dig in.
+
 ## Our Truths ###
 
 As I mentioned before, worldbuilding in Ironsworn is done by choosing an option in several categories, which, when combined, give you a colorful and evocative setting.
