@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/category/Gameplay</loc>
-<lastmod>2019-02-12T00:25:49-05:00</lastmod>
+<lastmod>2019-02-17T21:43:17-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/introduction/</loc>
@@ -11,6 +11,10 @@
 <url>
 <loc>http://localhost:4000/worldbuilding-part-i-the-land/</loc>
 <lastmod>2019-02-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/worldbuilding-part-ii-the-people/</loc>
+<lastmod>2019-02-17T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

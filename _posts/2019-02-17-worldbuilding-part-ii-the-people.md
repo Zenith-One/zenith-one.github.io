@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Worldbuilding Part II - The People
 categories:
   - "Gameplay"
@@ -116,3 +116,46 @@ They serve their communities by standing sentry, patrolling surrounding lands, a
 
 ### Mysticism
 
+Ironsworn is generally a low-magic game.
+In the stock rules, there are no big, flashy spells to cast.
+Instead, there are Rituals you can use, which have significantly subtler effects.
+However, this is yet another configuration option of sorts you can set as you choose.
+It doesn't change the character options you have available (at least not the ones the game comes with out of the box) but it does affect the world around you.
+
+> MYSTICISM
+> - Some still find comfort in the old ways. They call on mystics to divine the fortune of their newborn, or ask them to perform rituals to invoke a bountiful harvest. Others act out of fear against those who they suspect of having power.
+However, most folk believe true magic—if it ever existed—is lost to us now.
+> -  Magic is rare and dangerous, but those few who wield the power are truly gifted.
+> - Magic courses through this land as the rivers flow through the hills. The power is there for those who choose to harness it,
+and even the common folk often know a helpful ritual or two.
+
+The lore of Kalemin contains a great deal of overt and powerful magic.
+The Dwarves there, however,  are not well known for their use of powerful sorcery.
+I find myself at a bit of an impasse.
+There is indeed magic coursing through the land as described in the third option, but I don't know that I want that to be a major thematic element of this game.
+I think instead that we'll use the first option.
+
+Perhaps there is a great deal of magic for those who might know how to wield it, but that's simply not who the dwarves are. Their magic is tied to rituals, runes, and divination. In general, we'll be using the first option, with the understanding that there might be other characters down the road which demonstrate one of the other options is also possibly true.
+
+### Religion
+
+> RELIGION
+> - A few Ironlanders still make signs or mumble prayers out of habit or tradition, but most believe the gods long ago abandoned us.
+> - The people honor old gods and new. In this harsh land, a prayer is a simple but powerful comfort.
+> - Our gods are many. They make themselves known through manifestations and miracles. Some say they even secretly walk among us. The priests convey the will of the gods and hold sway over many communities.
+
+Kalemin is a world in which the existence of deities is pretty much a given.
+Most cultures and peoples across the world follow the same deities (although they may have different names for them).
+However, the history, and our gameplay experiences in the world in other games, have led us to the conclusion that the gods have stepped back from direct intervention following the pantheon war.
+
+Therefore, while the third option was once true, it is more likely that the second one is the best here. This game will be set fairly close to the conclusion of the war between the gods, so there will be those who remember a time in which the gods performed miracles (and sometimes atrocities). However, that is no longer the case.
+
+But the people do still pray.
+
+## To be concluded...
+
+As we add more brush strokes to this world's canvas, I imagine an image of our setting emerging from the dark background.
+We've figured out what kind of land we're in, and what kind of people live there.
+We have but a few more choices to make and we'll be ready to dig into character creation and start play in earnest.
+
+But first, we get to decide what sorts of external circumstances we might run into along the way. It should be quite exciting indeed!

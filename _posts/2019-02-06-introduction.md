@@ -138,6 +138,6 @@ If you like what you've been reading about Ironsworn so far, or you just want to
 You can get the core rulebook, character sheet, and a whole slew of other helpful things for exactly zero money.
 Having read the entire thing and played the game a bit, I can tell you that I would have no buyer's remorse if I'd paid $40-50 for it.
 But nope, it was free.
-I highly recommend checking it out.
+I highly recommend checking it out, and if you decide you really love it, you can head over to [DriveThruRPG](https://www.drivethrurpg.com/product/238369/Ironsworn?src=Zenith) and throw some money at the designer.
 
 And make sure to keep an eye out for the next post where we will make some big decisions about our game's setting and begin the journey toward meeting our protagonist: Ida Eisenbaum, Slayer of Beasts!
