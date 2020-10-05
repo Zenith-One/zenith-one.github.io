@@ -1,0 +1,12 @@
+name: i.am = theGuyWho.codes()
+url: https://zenith-one.github.io
+description: An eternal work in progress
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+baseurl: ""
+markdown: kramdown
+
+gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'examples']
